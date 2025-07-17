@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "mouse",
+      "price": 150.25
+    },
+    {
+      "id": 2,
+      "name": "teclado",
+      "price": 250.25
+    },
+    {
+      "id": 3,
+      "name": "monitor",
+      "price": 350.25
+    },
+    {
+      "id": "1752719136828",
+      "name": "microfone",
+      "price": "700"
+    }
+  ]
+}
